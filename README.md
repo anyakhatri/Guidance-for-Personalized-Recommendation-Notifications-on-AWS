@@ -82,9 +82,10 @@ https://github.com/user-attachments/assets/baeece97-e46e-49df-b141-5c808e519fe5
 
 
 **3. Upload amazon.csv to the S3 Bucket**
-   - Navigate to the S3 bucket created from the CloudFormation Stack and upload deployment/amazon.csv to the bucket. Follow the steps demonstrated below.
+   - Navigate to the S3 bucket created from the CloudFormation Stack and upload deployment/amazon.csv to the bucket.
   
-  
+  <img width="1233" alt="Screenshot 2024-08-05 at 2 07 20 PM" src="https://github.com/user-attachments/assets/b563dda7-fdc9-4fc1-b09f-021bf7a2e571">
+
 
 
 
