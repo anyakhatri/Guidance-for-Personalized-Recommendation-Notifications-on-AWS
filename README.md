@@ -32,7 +32,7 @@ By delivering personalized recommendations and tailored communications, customer
 
 ### Architecture
 
-![Uploading architecture.png…]()
+<img width="955" alt="architecture" src="https://github.com/user-attachments/assets/1157c154-d91f-4d42-a085-8a577b07f14a">
 
 
 
