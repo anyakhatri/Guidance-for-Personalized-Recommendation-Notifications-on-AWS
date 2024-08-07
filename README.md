@@ -32,7 +32,7 @@ By delivering personalized recommendations and tailored communications, customer
 
 ### Architecture
 
-![Uploading architecture.png…]()
+<img width="955" alt="architecture" src="https://github.com/user-attachments/assets/1157c154-d91f-4d42-a085-8a577b07f14a">
 
 
 
@@ -215,7 +215,7 @@ Steps:
 Run the resource notebook cleanup(4) to clean up all associated resources included in the Jupyter notebooks. To delete the stack, run the following command in the AWS CLI
 
 ```bash
-aws cloudformation delete-stack --stack-name recommendations
+aws cloudformation delete-stack --stack-name <YOUR-STACK-NAME>
 ```
 
 
